@@ -26,7 +26,7 @@
 
 ### Hamburger Menu
 
-![image](https://github.com/user-attachments/assets/aacae1a6-e16b-4637-98bf-588a151449a6 | width=200)
+<img src="https://github.com/user-attachments/assets/aacae1a6-e16b-4637-98bf-588a151449a6" width="50%">
 
 ### Date Picker
 
