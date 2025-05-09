@@ -22,11 +22,11 @@
 
 ### Hover Menu
 
-![localhost_3000_(iPhone SE)](https://github.com/user-attachments/assets/965b4d75-4d81-4489-9011-e275be345b5e)
+<img src="https://github.com/user-attachments/assets/965b4d75-4d81-4489-9011-e275be345b5e" width="60%">
 
 ### Hamburger Menu
 
-<img src="https://github.com/user-attachments/assets/aacae1a6-e16b-4637-98bf-588a151449a6" width="50%">
+<img src="https://github.com/user-attachments/assets/aacae1a6-e16b-4637-98bf-588a151449a6" width="30%">
 
 ### Date Picker
 
