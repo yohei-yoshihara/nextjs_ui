@@ -12,19 +12,37 @@
 
 <img width="137" alt="スクリーンショット 2024-11-13 12 36 53" src="https://github.com/user-attachments/assets/b905f247-c957-4225-9c6e-b620671bcf55">
 
-#### PUlldown Menu
+#### Pulldown Menu
 
 <img width="114" alt="スクリーンショット 2024-11-13 12 37 25" src="https://github.com/user-attachments/assets/6494d01f-a5d8-430f-893d-dc0ab4c89641">
 
 ### Popover
 
-* modal dialog
-* hover menu
-* hamburger menu
-* date picker
-* carousel
-* alert dialog
-* accordion
+### Modal Dialog
+
+### Hover Menu
+
+![localhost_3000_(iPhone SE)](https://github.com/user-attachments/assets/965b4d75-4d81-4489-9011-e275be345b5e)
+
+### Hamburger Menu
+
+![image](https://github.com/user-attachments/assets/aacae1a6-e16b-4637-98bf-588a151449a6)
+
+### Date Picker
+
+![スクリーンショット 2024-11-02 14 40 14](https://github.com/user-attachments/assets/c5f8b059-3211-46d9-b20b-05ed9b255815)
+
+### Carousel
+
+![スクリーンショット 2024-11-02 15 34 48](https://github.com/user-attachments/assets/8d2de738-2a15-42c0-baae-7cb5e4911236)
+
+### Alert Dialog
+
+![スクリーンショット 2024-11-02 14 03 54](https://github.com/user-attachments/assets/8a95a1b1-82e5-43b4-893e-d3ec50b4b952)
+
+### Accordion
+
+![スクリーンショット 2024-10-30 16 49 50](https://github.com/user-attachments/assets/e867e89d-858f-42e1-abf9-e204a5f87a73)
 
 ## References
 
@@ -35,3 +53,13 @@
 * Popover
     * [Mastering Popovers: Building an Accessible Popover Component in React with Just HTML](https://medium.com/@iambharathpadhu/mastering-popovers-building-an-accessible-popover-component-in-react-with-just-html-a6e95c0be2fb)
     * [How to Handle Outside Clicks in React with TypeScript](https://dev.to/rashed_iqbal/how-to-handle-outside-clicks-in-react-with-typescript-4lmc)
+* Date Picker
+    * [Build a Date Picker in 15mins Using Javascript/React from Scratch](https://medium.com/swlh/build-a-date-picker-in-15mins-using-javascript-react-from-scratch-f6932c77db09)
+    * [Creawting a custom React datepicker](https://blog.logrocket.com/react-custom-datepicker/)
+    * [Date Picker From Scratch | React](https://www.youtube.com/watch?app=desktop&v=CbXGyv3HI2w)
+* Carousel
+    * [Learn How to create Carousel slider in tailwind css and react js](https://github.com/AyyazTech/create-carousel-slider-in-Tailwind-css-and-React-js/tree/main)
+    * [Build A React Carousel Image Slider From Scratch: React JS Hooks Tutorial](https://iamdyroz.medium.com/create-a-responsive-react-carousel-image-slider-component-from-scratch-using-react-hooks-eefdcfd42d79)
+* Accordion
+    * [Creating an Accordion Component with Tailwind CSS](https://medium.com/@dechmilznik/creating-an-accordion-component-with-tailwind-css-1ade980a314e)
+    * [Make an Animated Accordion Component purely in React and Tailwind CSS](https://www.youtube.com/watch?app=desktop&v=dciqfn6vRxc)
