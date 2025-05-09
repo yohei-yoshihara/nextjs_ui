@@ -34,7 +34,7 @@
 
 ### 8. Carousel
 
-![スクリーンショット 2024-11-02 15 34 48](https://github.com/user-attachments/assets/8d2de738-2a15-42c0-baae-7cb5e4911236)
+<img src="https://github.com/user-attachments/assets/8d2de738-2a15-42c0-baae-7cb5e4911236" width="30%">
 
 ### 9. Alert Dialog
 
