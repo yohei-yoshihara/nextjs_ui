@@ -22,7 +22,7 @@
 
 ### Hover Menu
 
-<img src="https://github.com/user-attachments/assets/965b4d75-4d81-4489-9011-e275be345b5e" width="60%">
+<img src="https://github.com/user-attachments/assets/965b4d75-4d81-4489-9011-e275be345b5e" width="30%">
 
 ### Hamburger Menu
 
