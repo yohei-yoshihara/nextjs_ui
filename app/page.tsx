@@ -25,7 +25,7 @@ export default function Home() {
   };
 
   return (
-    <div className="bg-white w-screen h-screen p-10">
+    <div className="bg-white w-screen h-screen mx-30 my-10">
       <h1 className="text-bold text-2xl text-gray-700 mb-10">
         React/Next.js UI Components from Scratch
       </h1>
