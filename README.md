@@ -1,5 +1,11 @@
 # React/Next.js UI from Scratch
 
+``` bash
+cd nextjs_ui
+pnpm install
+pnpm run dev
+```
+
 ## UIs
 
 ### 1. Toast
